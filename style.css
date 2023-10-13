@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: gray;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+body button {
+  font-size: 300px;
+  background-color: transparent;
+  color: green;
+  font-style: italic;
+
+  font-family: sans-serif;
+}
+.colorChnage {
+  color: rgb(54, 30, 30);
+  font-size: 100px;
+}
